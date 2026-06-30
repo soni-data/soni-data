@@ -1,13 +1,13 @@
 # Hi 👋, I'm Soni
 
 ### 🎓 Final Year BCA Student
-### 📊 Aspiring Data Analyst | 🤖 Generative AI Enthusiast
+### 📊 Aspiring Data Analyst | 🤖 Generative AI
 
-I am passionate about Data Analytics and Generative AI. I enjoy working with data to discover insights and build impactful projects using SQL, Power BI, Python, and Excel.
+I am passionate about Data Analytics with Generative AI. I enjoy working with data to discover insights and build impactful projects using SQL, Power BI, Python, and Excel.
 
 ----
 # 💫 About Me:
-🎓 Final Year BCA Student<br>💻 Passionate about Data Analytics and Generative AI.<br>🔭 Currently building Data Analytics and Generative AI projects.<br>🌱 Currently learning SQL, Python, Power BI, Excel, and Generative AI.<br>🚀 Aspiring Data Scientist and AI Engineer. My goal is to master Data Science, Machine Learning, and AI through continuous learning and real-world projects.<br>💬 Ask me about SQL, Power BI, Python, Excel, Data Analytics, and Generative AI.<br>⚡ Fun fact: I enjoy turning raw data into meaningful insights.<br>💼 Open to Internship Opportunities.
+🎓 Final Year BCA Student<br>💻 Passionate about Data Analytics with Generative AI.<br>🔭 Currently building Data Analytics and Generative AI projects.<br>🌱 Currently learning SQL, Python, Power BI, Excel, and Generative AI.<br>🚀 Aspiring Data Scientist and AI Engineer. My goal is to master Data Science, Machine Learning, and AI through continuous learning and real-world projects.<br>💬 Ask me about SQL, Power BI, Python, Excel, Data Analytics, and Generative AI.<br>⚡ Fun fact: I enjoy turning raw data into meaningful insights.<br>💼 Open to Internship Opportunities.
 
 
 ## 🌐 Socials:
